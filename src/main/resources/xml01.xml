@@ -28,6 +28,11 @@
             <age>20</age>
             <sex>男</sex>
         </student>
+        <teacher>
+            <name>刘浩2</name>
+            <age>202</age>
+            <sex>男2</sex>
+        </teacher>
         <student>
             <name>孙宏恩</name>
             <age>33</age>
